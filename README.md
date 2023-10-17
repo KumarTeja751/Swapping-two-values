@@ -29,8 +29,8 @@ n1 = n2
 n2=temp
 print("Swapped numbers are: ",n1,n2)
 ```
-## OUTPUT
-![Alt text](image.png)
+## OUTPUT:
+![Alt text](Imagepy.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
