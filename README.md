@@ -18,11 +18,10 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```python
+```
 #Program to swap two values.
-#Developed by: Kumarteja
+#Developed by: Kumarteja naramala
 #Register number : 23003525
-
 n1 = input()
 n2 = input()
 temp = n1
